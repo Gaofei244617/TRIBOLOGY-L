@@ -1,0 +1,237 @@
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\CircularGauge.dll
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\MechCur.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\SetParam.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\TempHumCur.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\RTDatas.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\ExtraPress.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetLeverRatio.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\App.baml
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\MechCur.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\SetParam.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\TempHumCur.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Home\RTDatas.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\ExtraPress.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetLeverRatio.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\App.g.cs
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+D:\北林\Modern UI\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.csprojResolveAssemblyReference.cache
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\CircularGauge.dll
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+D:\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.csprojResolveAssemblyReference.cache
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\EditWindow.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\PlotWin.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Resources\ModernUI.Snowflakes.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\App.baml
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\EditWindow.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\PlotWin.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\App.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY_Content.g.cs
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+D:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\CircularGauge.dll
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+E:\TRIBOLOGY\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.csprojResolveAssemblyReference.cache
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\EditWindow.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\PlotWin.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Resources\ModernUI.Snowflakes.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\App.baml
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\EditWindow.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\MainWindow.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\PlotWin.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\App.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY_Content.g.cs
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+E:\TRIBOLOGY\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+E:\BaiduYunDownload\TRIBOLOGY-25\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+E:\BaiduYunDownload\TRIBOLOGY-25\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+E:\BaiduYunDownload\TRIBOLOGY-25\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\CircularGauge.dll
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+E:\TRIBOLOGY-W\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY.csprojResolveAssemblyReference.cache
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\EditWindow.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\MainWindow.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\PlotWin.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Resources\ModernUI.Snowflakes.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\App.baml
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\EditWindow.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\MainWindow.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\PlotWin.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\App.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY_Content.g.cs
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+E:\TRIBOLOGY-W\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\CircularGauge.dll
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\EditWindow.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\MainWindow.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\PlotWin.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Resources\ModernUI.Snowflakes.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\App.baml
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\EditWindow.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\MainWindow.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\PlotWin.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\App.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY_Content.g.cs
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+E:\GaoFei\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.csprojResolveAssemblyReference.cache
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.exe.config
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.exe
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\TRIBOLOGY.pdb
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\CircularGauge.dll
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\DynamicDataDisplay.dll
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.dll
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\bin\Release\FirstFloor.ModernUI.xml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\EditWindow.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\MainWindow.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\PlotWin.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\Plot.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Resources\ModernUI.Snowflakes.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\App.baml
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\EditWindow.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\MainWindow.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\MechCur.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\PlotWin.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SystemSet.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\Plot.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SetParam.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\DataCurver\TempHumCur.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\Appearance.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\RealTimeData\RTDatas.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Settings\SettingsPage.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\Pages\Tools\ViewParams.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\App.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY_Content.g.cs
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY_MarkupCompile.cache
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.g.resources
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.exe
+D:\本科\TRIBOLOGY\TRIBOLOGY-L\TRIBOLOGY\obj\Release\TRIBOLOGY.pdb
